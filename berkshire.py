@@ -135,7 +135,7 @@ def test_berkshire():
     frame = run.load_data()
     frame2 = run.calc_mostcommon_city_time_day(cityname, monthname, weekday, frame)
     if len(frame2) == 0:
-        sys.exit('data set lenght is not long enough')
+        sys.exit('data set length is not long enough')
     run.display_data(frame2)
     run.most_common_stations_trip(frame2)
     run.total_avg_travel_time(frame2)
