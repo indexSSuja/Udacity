@@ -4,13 +4,12 @@
 
 I recently finished Programming for Data Science using Python. This blog is about the project I worked as part of the course. I am going to present my approach and some hints and tips that I used to complete this project. This is just an introductory course for aspiring individuals to make their journey towards Data Scientist, Machine Learning Engineer, Data Analyst, Artificial Intelligence, etc easier.
 
-Note: This course is 100% project based.. Please do check out the complete course details here at Udacity.
-
-Here is my github repo that covers complete python code related to course work
+Note: This course is 100% project based.. Please do check out the complete course details  at Udacity.
 
 
-###Data Science Process
-##Overview
+
+### Data Science Process
+## Overview
 In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 Project coursework provided three files
 	• chicago.csv
