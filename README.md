@@ -18,24 +18,24 @@ Project coursework provided three files
 	• washington.csv
 
 
-What Software Do I Need?
+## What Software Do I Need?
 To complete this project, the following software requirements apply:
 • You should have Python 3, NumPy, and pandas
 • Pycharm
 
 
-#1 Popular times of travel (i.e., occurs most often in the start time)
+# 1 Popular times of travel (i.e., occurs most often in the start time)
 	• most common month
 	• most common day of week
 	• most common hour of day
-#2 Popular stations and trip
+# 2 Popular stations and trip
 	• most common start station
 	• most common end station
 	• most common trip from start to end (i.e., most frequent combination of start station and end station)
-#3 Trip duration
+# 3 Trip duration
 	• total travel time
 	• average travel time
-#4 User info
+# 4 User info
 	• counts of each user type
 	• counts of each gender (only available for NYC and Chicago)
 	• earliest, most recent, most common year of birth (only available for NYC and Chicago)
@@ -62,10 +62,8 @@ There are lot of prebuild packages within pandas for exploratory data analysis l
 If you need to build visualization to showcase the output of your data analysis then you can use many of the libraries like pandas data profiling -Pandas data profiling will help us to understand the data structure even more better when you need to understand the data quickly.
 
 
-Conclusion:
+### Conclusion:
 In this article, you got an overview of the course work that I took for python programming and data science. We explored different reporting packages like pandas profiling, pandas, numpy for in depth data analysis. If you are a beginner like me then this is a great course work.
 
 Thanks for reading, hope to see you in my next post. 
 
-
-![image](https://user-images.githubusercontent.com/89864832/147725482-669d630b-e0ad-46f6-8ba2-f5a0516dd41d.png)
